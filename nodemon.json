@@ -1,0 +1,5 @@
+{
+  "watch": ["components/**/*", "app/**/*", "lib/**/*"],
+  "ext": "js,jsx,ts,tsx,json,css",
+  "exec": "next dev"
+}
