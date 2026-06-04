@@ -11,7 +11,7 @@ import {
   MessageCircle,
   Camera,
   Smartphone,
-  Linkedin,
+  Briefcase,
   Mail,
   Bot,
   Target,
@@ -32,7 +32,7 @@ const channelItems = [
   { href: "/leads?source=manychat", label: "ManyChat", icon: MessageCircle },
   { href: "/leads?source=instagram", label: "Instagram", icon: Camera },
   { href: "/leads?source=whatsapp", label: "WhatsApp", icon: Smartphone },
-  { href: "/leads?source=linkedin", label: "LinkedIn", icon: Linkedin },
+  { href: "/leads?source=linkedin", label: "LinkedIn", icon: Briefcase },
   { href: "/leads?source=email", label: "Email", icon: Mail },
 ];
 
